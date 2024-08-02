@@ -67,6 +67,6 @@ app.get('*', (req, res) => {
 
 
 
-app.listen(12332, () => {
-    console.log('Server running on port 12332');
+app.listen(3003, () => {
+    console.log('Server running on port 3003');
 });
